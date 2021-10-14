@@ -231,7 +231,7 @@ color: white;
   align-items: center;
   justify-content: center;
   z-index: 0;
-  background-image: url(/images/Procreated.jpg);
+  background-image: url(https://static.wixstatic.com/media/99ff67_725c54ef91ef41528cb8bab975da1b95~mv2.jpg/v1/fit/w_1024,h_536,al_c,q_80/file.jpg);
 }
 
 
@@ -272,7 +272,7 @@ display: flex;
 align-items: center;
 justify-content: center;
 z-index: 0;
-background-image: url(/images/paper\ sketching.jpg);
+background-image: url(https://img.pluralsight.com/course-images/beginners-guide-concept-sketching-1052-v1.jpg);
 position: relative;
 }
 
@@ -335,7 +335,7 @@ display: flex;
 align-items: center;
 justify-content: center;
 z-index: 0;
-background-image: url(/images/clip\ studio.jpg);
+background-image: url(https://crackshelp.com/wp-content/uploads/2020/11/JL2qfcpwg7ve7BPAhkCVe8.jpg);
 position: relative;
 }
 
@@ -374,7 +374,7 @@ display: flex;
 align-items: center;
 justify-content: center;
 z-index: 0;;
-background-image: url(/images/photoshop.jpg);
+background-image: url(https://i.ytimg.com/vi/zXMSJiMtU4I/maxresdefault.jpg);
 }
 @media screen and (max-width: 991px) {
 .blue  {
