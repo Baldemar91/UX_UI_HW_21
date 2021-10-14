@@ -218,6 +218,8 @@ main {
 
 /*blockSet1*/
 .green {
+  background-repeat: no-repeat no-repeat;
+  background-size: cover;
   color: white;
     height: 400px;
     width: 800px;
@@ -232,7 +234,7 @@ main {
     align-items: center;
     justify-content: center;
     z-index: 0;
-    background-image: url(/images/RzYdh3iL3rNhBn8sKBKfdH.jpeg);
+    background-image: url(https://pbs.twimg.com/media/E7kXKvEXIAUWHDV.jpg);
 }
 
 
@@ -260,6 +262,8 @@ main {
 
 
 .yellow {
+  background-repeat: no-repeat no-repeat;
+  background-size: cover;
   color: white;
   height: 400px;
   width: 800px;
@@ -273,7 +277,7 @@ main {
   align-items: center;
   justify-content: center;
   z-index: 0;
-  background-image: url(/images/sketching.jpg);
+  background-image: url(https://cdn.shopify.com/s/files/1/0252/2021/8973/files/shutterstock_1733521205.jpg?v=1603815985);
   position: relative;
 }
 
@@ -323,6 +327,8 @@ main {
 
 /*blockSet2*/
 .red {
+  background-repeat: no-repeat no-repeat;
+  background-size: cover;
   color: white;
   height: 400px;
   width: 800px;
@@ -336,7 +342,7 @@ main {
   align-items: center;
   justify-content: center;
   z-index: 0;
-  background-image: url(/images/about.jpg);
+  background-image: url(https://2ndtrymagazine.com/wp-content/uploads/2021/04/4b480f7aa43b9b4817cff99ce9cde91a-1.jpg);
   position: relative;
 }
 
@@ -361,6 +367,8 @@ main {
 }
 
 .blue {
+  background-repeat: no-repeat no-repeat;
+  background-size: cover;
   color: white;
   position: relative;
   height: 400px;
@@ -375,7 +383,7 @@ main {
   align-items: center;
   justify-content: center;
   z-index: 0;;
-  background-image: url(/images/materials_for_digital_artists.jpg);
+  background-image: url(https://p4.wallpaperbetter.com/wallpaper/271/665/190/vocaloid-long-hair-sky-digital-art-wallpaper-preview.jpg);
 }
 @media screen and (max-width: 991px) {
   .blue  {
