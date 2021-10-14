@@ -105,7 +105,7 @@ a {
 
 .herospace {
   height: 90vh;
-  background-image: url(images/e9a0d7ee-a1be-11e8-85da-eeb7a9ce36e4.jpg);
+  background-image: url(/images/e9a0d7ee-a1be-11e8-85da-eeb7a9ce36e4.jpg);
    
     background-position: 50% 50%;
     background-repeat: no-repeat no-repeat;
@@ -232,7 +232,7 @@ main {
     align-items: center;
     justify-content: center;
     z-index: 0;
-    background-image: url(images/RzYdh3iL3rNhBn8sKBKfdH.jpeg);
+    background-image: url(/images/RzYdh3iL3rNhBn8sKBKfdH.jpeg);
 }
 
 
@@ -273,7 +273,7 @@ main {
   align-items: center;
   justify-content: center;
   z-index: 0;
-  background-image: url(images/sketching.jpg);
+  background-image: url(/images/sketching.jpg);
   position: relative;
 }
 
@@ -336,7 +336,7 @@ main {
   align-items: center;
   justify-content: center;
   z-index: 0;
-  background-image: url(images/about.jpg);
+  background-image: url(/images/about.jpg);
   position: relative;
 }
 
@@ -375,7 +375,7 @@ main {
   align-items: center;
   justify-content: center;
   z-index: 0;;
-  background-image: url(images/materials_for_digital_artists.jpg);
+  background-image: url(/images/materials_for_digital_artists.jpg);
 }
 @media screen and (max-width: 991px) {
   .blue  {
